@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="GTS.Program">
+    <Position X="15.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IQAEAAAAgBAAAAAgAAgAAAAAAAAQAACAAAAABAAQBAA=</HashCode>
+      <FileName>MAIN_GTS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FLHANDLING.FNew">
+    <Position X="20" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FLHANDLING.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FLHANDLING.FWrite">
+    <Position X="25.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>FLHANDLING.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FLHANDLING.FCont">
+    <Position X="23.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>FLHANDLING.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FLHANDLING.FDelete">
+    <Position X="21.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FLHANDLING.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effects.Colors">
+    <Position X="20.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAgAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effects.Loading">
+    <Position X="25.75" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAEAYAAAIAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Effects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Effects.Border">
+    <Position X="23" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAAAAAEAAAAAAAEAAAAAAAAQAAAA=</HashCode>
+      <FileName>Effects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Events.RanEvent">
+    <Position X="29" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Events.evnt">
+    <Position X="25.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Events.wpool">
+    <Position X="22.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Events.rivtrad">
+    <Position X="24.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Events.pirate">
+    <Position X="27" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.facts">
+    <Position X="9.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.RanFacts">
+    <Position X="9.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.mfacts">
+    <Position X="15.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts1">
+    <Position X="15.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.mlfacts">
+    <Position X="12.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts2">
+    <Position X="12.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.macfacts">
+    <Position X="12.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts3">
+    <Position X="12.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.acafacts">
+    <Position X="9.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts4">
+    <Position X="9.75" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.cartafacts">
+    <Position X="15.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts5">
+    <Position X="15.75" Y="21.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.havfacts">
+    <Position X="15.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts6">
+    <Position X="15.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.lisfacts">
+    <Position X="12.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts7">
+    <Position X="12.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.sevfacts">
+    <Position X="9.75" Y="16.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facts.Ranfacts8">
+    <Position X="9.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Facts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.prt" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Manila">
+    <Position X="6" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Malacca">
+    <Position X="12.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Macau">
+    <Position X="1.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Acapulco">
+    <Position X="8.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Cartagena">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Havana">
+    <Position X="3.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Lisbon">
+    <Position X="10.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ports.Seville">
+    <Position X="16.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ports.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pstats.Player">
+    <Position X="13.25" Y="3" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIQAAAAAAQAAAEEgAAAAIAAACCAAAAgA=</HashCode>
+      <FileName>Pstats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectMain.Menu2">
+    <Position X="27.25" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAEAACAAAAAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>SelectorsMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectMain.BGoods">
+    <Position X="24.25" Y="9" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAEAACAAAAAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>SelectorsMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectMain.SGoods">
+    <Position X="21.5" Y="9" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAEAACAAAAAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>SelectorsMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
