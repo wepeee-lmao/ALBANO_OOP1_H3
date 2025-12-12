@@ -279,7 +279,7 @@ namespace FLHANDLING
         public static void FDel(Player p)
         {
             string fp1 = $@"C:\Users\Kiarra\OneDrive\Desktop\CODES\OOP 1\FINALS_GTS\GTS_FILES\{p.Nm}.stats.txt";
-            string fp2 = $@"C:\Users\Kiarra\OneDrive\Desktop\CODES\OOP 1\FINALS_GTS\GTS_FILES\{p.Nm}.jorun.txt";
+            string fp2 = $@"C:\Users\Kiarra\OneDrive\Desktop\CODES\OOP 1\FINALS_GTS\GTS_FILES\{p.Nm}.journ.txt";
 
             try
             {
