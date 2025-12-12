@@ -682,11 +682,11 @@ namespace GTS
                     }
                     else if (us.Contains(port.Nm))
                     {
-                        price *= 5;
+                        price *= 4;
                     }
                     else
                     {
-                        price *= 4;
+                        price *= 5;
 
                     }
 
