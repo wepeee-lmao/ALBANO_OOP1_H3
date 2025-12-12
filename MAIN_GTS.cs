@@ -81,7 +81,6 @@ namespace GTS
 
         public static void Main2(Player playr, Journal j)
         {
-
             bool x = true;
             while (x)
             {

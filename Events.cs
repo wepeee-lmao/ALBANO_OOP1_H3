@@ -188,6 +188,7 @@ namespace Events
                         Thread.Sleep(1000);
                     }
 
+                    Thread.Sleep(1000);
                     break;
 
                 
@@ -241,7 +242,7 @@ namespace Events
                         Colors.BoldTypeColor($"\n\n🕵️‍♂️ The rival tricked you with fake goods! -{g} Silver, -{r} Reputation ", 255, 50, 50, 30);
                         Thread.Sleep(1000);
                     }
-
+                    Thread.Sleep(1000);
                     break;
 
                 case 2:
@@ -262,6 +263,7 @@ namespace Events
                         p.Repu -= r;
                         Colors.BoldTypeColor($"\n\n😠 YIKES! The rival spreads rumors about you, damaging your reputation! -{r} Reputation", 255, 153, 153, 30);
                     }
+                    Thread.Sleep(1000);
                     break;
             }
 

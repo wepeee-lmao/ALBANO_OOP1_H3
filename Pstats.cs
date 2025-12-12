@@ -294,6 +294,7 @@ namespace Pstats
                                 Colors.BoldTypeColor($"\n\n❌ You fumbled the timing! You leave an opening and take {dmg} damage.", 255, 0, 0, 30);
                                 Thread.Sleep(1000);
                             }
+                            Thread.Sleep(1000);
                             break;
                         case 1:
                             Console.WriteLine("\n\u001b[1m\u001b[38;2;255;255;102m⚡ Quick-Time! Press [D] FAST to defend!\u001b[0m\n");
@@ -340,6 +341,7 @@ namespace Pstats
                                 Thread.Sleep(1000);
 
                             }
+                            Thread.Sleep(1000);
                             break;
 
                         case 2:
@@ -441,7 +443,7 @@ namespace Pstats
                                 Colors.BoldTypeColor("\n💀 You fail the taunt!", 255, 0, 0, 30);
                                 Colors.TypeColor($"Varela mocks you and fires a volley!\nYou take {dmg} damage!", 255, 150, 150, 30);
                             }
-                            Thread.Sleep(1500);
+                            Thread.Sleep(1000);
                             break;
                             
 
