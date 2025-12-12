@@ -1,8 +1,0 @@
-⚓ Captain's Log ⚓
-Captain: kk
-Gold: 590
-Reputation: 47
-Crew Morale: 60 %
-Completed Voyages: 1
-  Cargo Manifest:
-   - Religious Icon (Cross) | Price: 80 | Qty: 3

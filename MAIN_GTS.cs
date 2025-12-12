@@ -181,7 +181,11 @@ namespace GTS
                     Console.Clear();
                     string welc = "Choose Continent";
 
-                    string[] opt = { "\x1b[1m\u001b[38;2;246;147;111m⛩️ ASIA\u001b[0m", "\u001b[1m\u001b[38;2;247;185;38m🏜️ LATIN AMERICA\u001b[0m", "\u001b[1m\u001b[38;2;111;246;196m🏰 EUROPE\u001b[0m", "\u001b[38;2;255;255;0mReturn to Main Menu\u001b[0m" };
+                    string[] opt = { "\x1b[1m\u001b[38;2;246;147;111m⛩️ ASIA\u001b[0m", 
+                                    "\u001b[1m\u001b[38;2;247;185;38m🏜️ LATIN AMERICA\u001b[0m", 
+                                    "\u001b[1m\u001b[38;2;111;246;196m🏰 EUROPE\u001b[0m", 
+                                    "\u001b[38;2;255;255;0mReturn to Main Menu\u001b[0m" };
+
                     Menu Main = new Menu(opt, welc);
                     int ch = Main.MenuRun();
 
@@ -293,7 +297,7 @@ namespace GTS
                 default:
                     return;
             }
-            SvoyAm(p, currentPort, j);
+            Svoy2Am(p, currentPort, j);
         }
 
         public static void SvoyEu(Player p, Journal j)
@@ -328,7 +332,7 @@ namespace GTS
                 default:
                     return;
             }
-            SvoyEur(p, currentPort, j);
+            Svoy2Eur(p, currentPort, j);
         }
 
         public static void Svoy2As(Player p, prt currentPort, Journal j)
@@ -408,7 +412,7 @@ namespace GTS
             }
         }
 
-        public static void SvoyAm(Player p, prt currentPort, Journal j)
+        public static void Svoy2Am(Player p, prt currentPort, Journal j)
         {
             FWrite fw = new FWrite();
             p.Compvoy++;
@@ -486,7 +490,7 @@ namespace GTS
             }
         }
 
-        public static void SvoyEur(Player p, prt currentPort, Journal j)
+        public static void Svoy2Eur(Player p, prt currentPort, Journal j)
         {
             FWrite fw = new FWrite();
             p.Compvoy++;

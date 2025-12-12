@@ -78,20 +78,6 @@ namespace Effects
             Thread.Sleep(1000);
         }
 
-        public static void Moon()
-        {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
-
-            Console.WriteLine("\n");
-            string[] s = { "🌑", "🌒", "🌓", "🌔", "🌕", "🌖", "🌗", "🌘" };
-            for (int i = 0; i < 30; i++)
-            {
-                Console.Write($"\r{s[i % s.Length]} \u001b[1m\u001b[38;2;175;255;255m🎉Barter Completed!\u001b[0m");
-                Thread.Sleep(200);
-            }
-            Thread.Sleep(1000);
-        }
-
         public static void Voyint()
         {
             Console.Clear();
