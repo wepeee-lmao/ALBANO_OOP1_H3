@@ -6,12 +6,10 @@ using Namotion.Reflection;
 using Ports;
 using Pstats;
 using SelectMain;
-using SelectMain;
 using Spectre.Console;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Numerics;
-using System.Reflection.Metadata.Ecma335;
 using static System.Console;
 
 namespace GTS
